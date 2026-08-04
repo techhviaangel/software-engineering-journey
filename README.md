@@ -18,3 +18,9 @@ To become a skilled Software Engineer by mastering:
 ✅ Created this GitHub repository
 
 I will update this repository every day as I learn.# software-engineering-journey
+
+## Day 2 (04 August 2026)
+
+✅ Learned C++ variables
+✅ Practiced basic C++ program
+✅ Pushed Day 2 code to GitHub
