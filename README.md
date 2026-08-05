@@ -25,19 +25,9 @@ I will update this repository every day as I learn.# software-engineering-journe
 ✅ Practiced basic C++ program
 ✅ Pushed Day 2 code to GitHub
 
-## Day 3: Git & GitHub Practice ✅
+## Day 3: (05 August 2026) 
+ C++ Variables and Input/Output
 
-### Goals Completed:
-- Learned basic Git workflow.
-- Checked repository status using `git status`.
-- Added files to Git using `git add`.
-- Created commits using `git commit`.
-- Connected local project with GitHub repository.
-- Successfully pushed project updates to GitHub using Git.
+Today, I learned about C++ variables, data types like "int" and "float", variable declaration,data types and initialization. I practiced taking input using "cin", displaying output using "cout", and solved basic problems based on these concepts.
 
-### Commands Practiced:
-```bash
-git status
-git add .
-git commit -m "Day 3 completed"
-git push origin main
+I also uploaded screenshots of my practice work on GitHub to track my learning progress.
