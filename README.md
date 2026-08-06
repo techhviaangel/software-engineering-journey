@@ -1,4 +1,4 @@
-# Software Engineering Journey 🚀
+9# Software Engineering Journey 🚀
 
 Welcome to my software engineering learning journey.
 
@@ -31,3 +31,16 @@ I will update this repository every day as I learn.# software-engineering-journe
 Today, I learned about C++ variables, data types like "int" and "float", variable declaration,data types and initialization. I practiced taking input using "cin", displaying output using "cout", and solved basic problems based on these concepts.
 
 I also uploaded screenshots of my practice work on GitHub to track my learning progress.
+
+# Day 4 – Operators and Headers in C++
+
+## 📚 What I Learned Today
+
+Today, I learned the basics of **operators** in C++ and understood how they are used to perform different types of operations.
+
+### Topics Covered
+-✅Arithmetic Operators
+-✅ Comparison Operators
+-✅ Logical Operators
+-✅ Introduction to C++ Headers
+-✅ Why headers like `#include <iostream>` are important.
