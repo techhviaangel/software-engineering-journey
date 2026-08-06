@@ -32,7 +32,7 @@ Today, I learned about C++ variables, data types like "int" and "float", variabl
 
 I also uploaded screenshots of my practice work on GitHub to track my learning progress.
 
-# Day 4 – Operators and Headers in C++
+# Day 4 – (06 August, 2026)
 
 ## 📚 What I Learned Today
 
