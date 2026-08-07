@@ -1,4 +1,4 @@
-9# Software Engineering Journey 🚀
+# Software Engineering Journey 🚀
 
 Welcome to my software engineering learning journey.
 
@@ -44,3 +44,11 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 -✅ Logical Operators
 -✅ Introduction to C++ Headers
 -✅ Why headers like `#include <iostream>` are important.
+
+#Day 5- (07 August,2026)
+📚 Topics Learned
+✅"if" statement
+✅ "if-else" statement
+✅ Nested "if-else"
+✅Decision-making in C++
+
