@@ -52,3 +52,13 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 ✅ Nested "if-else"
 ✅Decision-making in C++
 
+## Day 6 — (08 August , 2026 )Switch & Ternary Operator
+
+### 📚 What I Learned
+✅ Switch statements in C++
+✅`case` and `default`
+✅`break` in switch
+✅Ternary operator `?:`
+✅Using conditions with the ternary operator
+
+
