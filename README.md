@@ -62,4 +62,12 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 ✅Ternary operator `?:`
 ✅Using conditions with the ternary operator
 
+## Day 7 — (09 August, 2026)Weekly Revision
+
+✅Revised all C++ concepts learned during Week 1.
+✅ Practiced operators, variables, data types, input/output, and conditional statements.
+✅Solved 20 mixed C++ practice problems.
+- Strengthened problem-solving and logical thinking.
+✅Completed my Week 1 revision successfully.
+
 
