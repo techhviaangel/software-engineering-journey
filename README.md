@@ -70,7 +70,7 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 - Strengthened problem-solving and logical thinking.
 ✅Completed my Week 1 revision successfully.
 
-# Day 8 – Loops in C++ (FOR LOOP)
+# Day 8 – ( 10 August , 2026 )Loops in C++ (FOR LOOP)
 
 ## 📚 What I Learned
 ✅For Loop
