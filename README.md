@@ -70,4 +70,14 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 - Strengthened problem-solving and logical thinking.
 ✅Completed my Week 1 revision successfully.
 
+# Day 8 – Loops in C++ (FOR LOOP)
+
+## 📚 What I Learned
+✅For Loop
+✅I learned how to use a `for` loop to repeat a block of code multiple times.
+✅I learned about the three main parts of a `for` loop:
+- Initialization
+- Condition
+- Increment/Decrement
+
 
