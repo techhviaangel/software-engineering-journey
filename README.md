@@ -81,7 +81,7 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 - Condition
 - Increment/Decrement
 
-## Day 10 — (11 August, 2026) While Loop 🔄
+## Day 9 — (11 August, 2026) While Loop 🔄
 🧠 Topics Covered
 ✅ "while" loop syntax and structure
 ✅ Initialization, condition, and updation
