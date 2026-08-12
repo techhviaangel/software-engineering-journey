@@ -88,5 +88,9 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 ✅ Printing numbers using a "while" loop
 ✅ Understanding how to avoid infinite loops
 
+## Day 10 –(12 August , 2026) Do-While Loop
+🚀 What I Learned
 
-
+✅Understood the basic structure of a "do-while" loop.
+✅Learned that a "do-while" loop executes the code at least once before checking the condition.
+✅Learned the difference between "while" and "do-while" loops.
