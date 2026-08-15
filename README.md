@@ -94,3 +94,10 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 ✅Understood the basic structure of a "do-while" loop.
 ✅Learned that a "do-while" loop executes the code at least once before checking the condition.
 ✅Learned the difference between "while" and "do-while" loops.
+
+## Day 11 —(15 August ,2026)Loops + Nested If-Else in C++
+
+📚 What I Learned Today
+Today I practiced and learned how to use nested if-else conditions in loops in C++.
+
+
