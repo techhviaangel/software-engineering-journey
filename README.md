@@ -1,5 +1,4 @@
 
-# Software Engineering Journey 🚀
 
 Welcome to my software engineering learning journey.
 
@@ -101,3 +100,5 @@ Today, I learned the basics of **operators** in C++ and understood how they are 
 Today I practiced and learned how to use nested if-else conditions in loops in C++.
 
 
+## Day 12 ( 16 August ,2026)
+Today I practiced C++ problems involving sum, product, and counting using loops and conditions. I also solved related practice problems and uploaded the screenshots along with day12.cpp to GitHub.
