@@ -102,3 +102,10 @@ Today I practiced and learned how to use nested if-else conditions in loops in C
 
 ## Day 12 ( 16 August ,2026)
 Today I practiced C++ problems involving sum, product, and counting using loops and conditions. I also solved related practice problems and uploaded the screenshots along with day12.cpp to GitHub.
+
+## Day 13 — (17 August 2026)Number-Based Problems
+
+Today I worked on number-based problems in C++ and started building stronger programming logic.
+I also practiced other number-based problems such as counting digits, finding the sum/product of digits, and finding the largest digit.
+
+
