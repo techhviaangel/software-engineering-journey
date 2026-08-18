@@ -108,4 +108,16 @@ Today I practiced C++ problems involving sum, product, and counting using loops 
 Today I worked on number-based problems in C++ and started building stronger programming logic.
 I also practiced other number-based problems such as counting digits, finding the sum/product of digits, and finding the largest digit.
 
+📅 Day 14 — Weekly Revision + Mixed Practice
+🔄 Topics Revised
+- "for" loop
+- "while" loop
+- "do-while" loop
+- Nested conditions
+- Counters
+- Accumulators
+- "%" (modulus) and "/" (division)
+- Digit-based problems
+📝 Practice
+Solved 20 mixed problems covering concepts from Week 1 + Week 2.
 
