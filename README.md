@@ -121,3 +121,17 @@ I also practiced other number-based problems such as counting digits, finding th
 📝 Practice
 Solved 20 mixed problems covering concepts from Week 1 + Week 2.
 
+
+Day 15 — C++ Functions
+📌 Topics Covered
+Today I learned about Functions in C++.
+Concepts Learned
+- What functions are and why they are used
+- Function declaration
+- Function definition
+- Function calling
+- Parameters and arguments
+- Return values
+- Functions with different return types
+- Reusing code through functions
+
