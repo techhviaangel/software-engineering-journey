@@ -108,7 +108,7 @@ Today I practiced C++ problems involving sum, product, and counting using loops 
 Today I worked on number-based problems in C++ and started building stronger programming logic.
 I also practiced other number-based problems such as counting digits, finding the sum/product of digits, and finding the largest digit.
 
-## 📅 Day 14 — Weekly Revision + Mixed Practice
+## 📅 Day 14 —(18 August ,2026) Weekly Revision + Mixed Practice
 🔄 Topics Revised
 - "for" loop
 - "while" loop
@@ -122,7 +122,7 @@ I also practiced other number-based problems such as counting digits, finding th
 Solved 20 mixed problems covering concepts from Week 1 + Week 2.
 
 
-## Day 15 — C++ Functions
+## Day 15 — (19 August,2026)C++ Functions
 📌 Topics Covered
 Today I learned about Functions in C++.
 Concepts Learned
@@ -134,4 +134,17 @@ Concepts Learned
 - Return values
 - Functions with different return types
 - Reusing code through functions
+
+## Day 16 —(20 August , 2026)Return Values & Parameters
+
+Today I continued learning Functions in C++ and focused on how functions can take parameters and return values.
+📚 Topics Covered
+- Return values in functions
+- "return" statement
+- Return types
+- Functions with parameters
+- Passing arguments to functions
+- Functions that perform calculations and return results
+- Reusing returned values in "main()"
+- Difference between "void" functions and value-returning functions
 
