@@ -148,3 +148,12 @@ Today I continued learning Functions in C++ and focused on how functions can tak
 - Reusing returned values in "main()"
 - Difference between "void" functions and value-returning functions
 
+## Day 17 – Functions & If-Else in C++
+📚 Topics Covered
+- Functions in C++
+- Function declaration and definition
+- Calling functions
+- Parameters and arguments
+- Return values
+- Using functions with "if-else" conditions
+- Solving simple problems using functions and conditional statements
