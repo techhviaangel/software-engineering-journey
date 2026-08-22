@@ -157,3 +157,12 @@ Today I continued learning Functions in C++ and focused on how functions can tak
 - Return values
 - Using functions with "if-else" conditions
 - Solving simple problems using functions and conditional statements
+
+## Day 18 —( 22 August, 2026)Functions with Loops
+📌 Topics Covered
+- Using functions in C++
+- Passing values to functions
+- Using loops inside functions
+- Combining functions with "for" and "while" loops
+- Practicing modular and reusable code
+
